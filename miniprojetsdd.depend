@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1593022210 source:c:\users\hicham\desktop\miniprojetsdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"personne_contact.c"
+	"hopital.c"
+	"quarantaine.c"
+	"hotel.c"
+	<conio.h>
+
+1593021057 c:\users\hicham\desktop\miniprojetsdd\patient.c
+	"patient.h"
+	<windows.h>
+	<string.h>
+
+1592747780 c:\users\hicham\desktop\miniprojetsdd\patient.h
+	"personne_contact.h"
+
+1593016966 c:\users\hicham\desktop\miniprojetsdd\personne_contact.c
+	"personne_contact.h"
+	<time.h>
+
+1592747807 c:\users\hicham\desktop\miniprojetsdd\personne_contact.h
+
+1593026345 c:\users\hicham\desktop\miniprojetsdd\hopital.c
+	"hopital.h"
+
+1592747500 c:\users\hicham\desktop\miniprojetsdd\hopital.h
+	"patient.h"
+
+1593020008 c:\users\hicham\desktop\miniprojetsdd\quarantaine.c
+	"quarantaine.h"
+
+1592748115 c:\users\hicham\desktop\miniprojetsdd\quarantaine.h
+	"hotel.h"
+
+1592748206 c:\users\hicham\desktop\miniprojetsdd\hotel.c
+	"hotel.h"
+	"personne_contact.h"
+
+1592748127 c:\users\hicham\desktop\miniprojetsdd\hotel.h
+	"patient.h"
+	"personne_contact.h"
+
+1593115066 source:c:\users\hicham\desktop\projet_final_sdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"patient.c"
+	"personne_contact.c"
+	"hopital.c"
+	"quarantaine.c"
+	"hotel.c"
+	<conio.h>
+
+1594143165 c:\users\hicham\desktop\projet_final_sdd\patient.c
+	"patient.h"
+	<windows.h>
+	<string.h>
+
+1592747780 c:\users\hicham\desktop\projet_final_sdd\patient.h
+	"personne_contact.h"
+
+1592747807 c:\users\hicham\desktop\projet_final_sdd\personne_contact.h
+
+1593016966 c:\users\hicham\desktop\projet_final_sdd\personne_contact.c
+	"personne_contact.h"
+	<time.h>
+
+1593115332 c:\users\hicham\desktop\projet_final_sdd\hopital.c
+	"hopital.h"
+
+1592747500 c:\users\hicham\desktop\projet_final_sdd\hopital.h
+	"patient.h"
+
+1593020008 c:\users\hicham\desktop\projet_final_sdd\quarantaine.c
+	"quarantaine.h"
+
+1592748115 c:\users\hicham\desktop\projet_final_sdd\quarantaine.h
+	"hotel.h"
+
+1592748127 c:\users\hicham\desktop\projet_final_sdd\hotel.h
+	"patient.h"
+	"personne_contact.h"
+
+1592748206 c:\users\hicham\desktop\projet_final_sdd\hotel.c
+	"hotel.h"
+	"personne_contact.h"
+
